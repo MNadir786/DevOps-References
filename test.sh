@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "this is first line" 
 echo "This is second line"
-echo "this is third line"
+echo "This is third line"
 echo " this is forth line"
 echo " this is for agent1 " 
 echo "Why it didn't work last time?" 
